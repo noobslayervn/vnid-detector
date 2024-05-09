@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/**/*.jpg
+/**/*.txt
+/**/*.csv
+/*.csv
+/*.xlsx
+/*.zip
